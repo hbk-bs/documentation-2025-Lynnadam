@@ -22,8 +22,10 @@ Es umfasst sowohl praktische Projekte (z. B. Teachable Machine, Nature of Code, 
 └── README.md                    # Diese Datei
 
 
+## Projektaufbau
+
 Jedes Projekt besteht aus drei Teilen:
 
-- **Briefing** → Hier beschreibe ich die Aufgabenstellung und die Zielsetzung.  
-- **Arbeitsverlauf** → Dokumentation meines Vorgehens, das Konzept, wichtige Schritte, Methoden.  
-- **Reflexion** → Kritische Auseinandersetzung mit dem Ergebnis: Was lief gut, was könnte besser sein, was habe ich gelernt.  
+- **Briefing** → Aufgabenstellung und Zielsetzung  
+- **Arbeitsverlauf** → Dokumentation meines Vorgehens, Konzepte, wichtige Schritte, Methoden  
+- **Reflexion** → Kritische Auseinandersetzung mit dem Ergebnis: Was lief gut, was könnte besser sein, was habe ich gelernt  

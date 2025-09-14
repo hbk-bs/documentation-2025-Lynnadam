@@ -21,6 +21,7 @@ Es umfasst sowohl praktische Projekte (z. B. Teachable Machine, Nature of Code, 
 │   └── js/
 └── README.md                    # Diese Datei
 
+---
 
 ## Projektaufbau
 
